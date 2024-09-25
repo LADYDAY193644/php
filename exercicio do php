@@ -1,0 +1,28 @@
+exercicio de casa
+
+
+// jogo de 'pedra','papel','tesoura';
+
+// se('jogador1 vence','jogador2 perde','empate')
+pedra = a ; papel = b ; tesoura = c ;
+
+ jogador1 = 'papel'
+ //ou pedra ou tesoura
+
+ jogador2 = 'pedra'
+ //ou papel ou tesoura
+
+if ('a'>'c'); ('b'>'a'); ('c'>'b') ;{
+    console.log('vence o jogador')
+// jogada para vencer;
+}
+if ('a'<'2b') ; ('b'<'c') ;('c'<'a') ;{
+    console.log('perde o jogador')
+}
+//jogada para perder ;
+if else('a'=='a') ;('b'=='b'); ('c'=='c') ;{
+    console.log('empate')
+}
+//jogada para empate
+
+
